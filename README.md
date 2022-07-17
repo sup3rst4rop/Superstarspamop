@@ -24,7 +24,7 @@
 
 ## ⚡ ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKU
 
-[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sup3rst4rop/superstarspam)
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sup3rst4rop/superstarspamop)
 
 
 <h4> Local Hosting </h4>
