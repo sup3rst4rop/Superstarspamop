@@ -9,10 +9,10 @@ import sys
 import asyncio
 import re
 from random import choice
-from Superstarxspam import (HNDLR, SUDO_USERS, OWNER_ID, LOGS_CHANNEL)
+from SuperstarxSpam import (HNDLR, SUDO_USERS, OWNER_ID, LOGS_CHANNEL)
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from Superstarxspam.data import *
+from SuperstarxSpam.data import *
 
 
 usage = f"** ❌ Wrong Usage ❌** \n Type `{HNDLR}help spam`"
