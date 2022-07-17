@@ -5,7 +5,7 @@
 
 
 
-from Superstarxspam import (OWNER_ID, HNDLR, SUDO_USERS, LOGS_CHANNEL)
+from SuperstarxSpam import (OWNER_ID, HNDLR, SUDO_USERS, LOGS_CHANNEL)
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
