@@ -1,1 +1,1 @@
-worker: python3 -m Superstarspam
+worker: python3 -m SuperstarxSpam
