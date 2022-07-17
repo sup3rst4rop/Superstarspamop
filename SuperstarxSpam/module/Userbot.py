@@ -9,7 +9,7 @@ import sys
 import asyncio
 import datetime
 import time
-from Superstarxspam import (HNDLR, SUDO_USERS, ALIVE_PIC, ALIVE_MSG, PING_MSG, __version__, start_time)
+from SuperstarxSpam import (HNDLR, SUDO_USERS, ALIVE_PIC, ALIVE_MSG, PING_MSG, __version__, start_time)
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
